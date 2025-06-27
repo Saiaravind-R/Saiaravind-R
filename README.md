@@ -4,8 +4,9 @@
 
 
 ## 💫 About Me:
-Data Analyst<br><br>
-🔭 Here's my [Resume]("")<br><br>
+  
+   - Data Analyst with hands-on experience in data analysis, visualization, and database querying with a strong foundation in data storytelling and actionable insights. Eager to contribute to data-driven business decisions in a dynamic organization.<br>
+- 🔭 Here's my [Resume]("")<br><br>
 
 
 
